@@ -1,8 +1,8 @@
 {
 	"manifest_version": 3,
-	"name": "Reading time",
+	"name": "music-skip",
 	"version": "1.0",
-	"description": "Add the reading time to Chrome Extension documentation articles",
+	"description": "lets you skip song using keybinds in Apple Music",
 	"content_scripts": [
 		{
 			"js": ["content.js"],
